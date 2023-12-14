@@ -2,7 +2,7 @@
 # .zshrc
 #
 # @author Jeff Geerling
-#
+# tgg version
 
 # Colors.
 unset LSCOLORS
